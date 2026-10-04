@@ -92,7 +92,7 @@ traitlets==4.3.3
 typing-extensions==3.7.4.3
 unicon==20.8.1
 unicon.plugins==20.8.1
-urllib3==1.25.8
+urllib3==2.8.0
 wcwidth==0.2.5
 xmltodict==0.12.0
 yamllint==1.24.2
