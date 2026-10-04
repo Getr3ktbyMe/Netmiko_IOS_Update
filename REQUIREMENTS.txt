@@ -51,7 +51,7 @@ prompt-toolkit==3.0.8
 psutil==5.7.2
 psycopg2-binary==2.8.2
 ptyprocess==0.6.0
-pyasn1==0.4.4
+pyasn1==0.6.4
 pyats==20.8
 pyats.aereport==20.8
 pyats.aetest==20.8
