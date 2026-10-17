@@ -77,7 +77,7 @@ pyserial==3.4
 pysmi==0.3.1
 pysnmp==4.4.6
 python-engineio==3.13.2
-python-socketio==4.6.0
+python-socketio==5.16.2
 PyYAML==5.3.1
 requests==2.23.0
 ruamel.yaml==0.16.12
