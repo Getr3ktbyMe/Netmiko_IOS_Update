@@ -38,7 +38,7 @@ ncclient==0.6.7
 netaddr==0.7.19
 netmiko==2.4.2
 nxapi-plumbing==0.5.2
-paramiko==2.7.1
+paramiko==5.0.0
 parso==0.7.1
 passlib==1.7.2
 pathspec==0.8.0
